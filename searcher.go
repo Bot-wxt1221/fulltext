@@ -3,7 +3,7 @@ package fulltext
 import (
 	"bytes"
 	"encoding/gob"
-	"github.com/jbarham/go-cdb"
+	"github.com/jbarham/cdb"
 	"io"
 	"io/ioutil"
 	"os"
