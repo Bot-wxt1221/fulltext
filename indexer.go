@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/gob"
 	"fmt"
-	"github.com/jbarham/go-cdb"
+	"github.com/jbarham/cdb"
 	"io"
 	"io/ioutil"
 	"os"
